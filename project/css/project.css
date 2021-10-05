@@ -1,0 +1,20 @@
+#main {
+    height: 800px;
+    border: 1 solid yellow;
+    background-color: violet;
+    position: absolute;
+}
+
+.img {
+    width: 10px;
+    height: 10px;
+    border-style: none;
+    margin: : left;
+    position: relative;
+}
+
+.header {
+    width: 50px;
+    height: 100px;
+    margin-top: auto;
+}
