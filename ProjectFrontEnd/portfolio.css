@@ -1,0 +1,35 @@
+body {
+    background-color: black;
+}
+
+.navbar-logo img {
+    width: 100%;
+    color: aqua;
+}
+
+.nav ul {
+    display: flex;
+    justify-content: end;
+}
+
+.nav ul li {
+    margin: 0 50px;
+    color: blanchedalmond;
+    font-size: x-large;
+}
+
+.header-content {
+    font-size: 120px;
+    font-weight: 400;
+    color: wheat;
+}
+
+
+/* .photo img {
+    width: 100%;
+} */
+
+
+/* .d-flex {
+    display: flex;
+} */
