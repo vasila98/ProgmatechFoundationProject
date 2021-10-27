@@ -52,7 +52,6 @@ html {
     /* width: 700px;
     height: 600px; */
     background: rosybrown;
-    z-index: 0;
 }
 
 
@@ -64,3 +63,34 @@ html {
 /* .d-flex {
     display: flex;
 } */
+
+#portfolio {
+    width: 1520px;
+    height: 670px;
+    background: darkgrey;
+}
+
+
+}
+#contact {
+    back width: 1520px;
+    height: 670px;
+    ground: darkcyan;
+}
+
+}
+.header .container .textt {
+    display: flex;
+}
+#about {
+    width: 1520px;
+    height: 670px;
+    background: cyan;
+}
+#contact {
+    width: 1520px;
+    height: 670px;
+    background: darkslategray;
+}
+
+}
