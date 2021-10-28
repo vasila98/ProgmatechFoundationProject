@@ -1,5 +1,13 @@
-body {
-    background-color: black;
+header {
+    position: relative;
+}
+
+.header-bg {
+    width: 100%;
+    position: absolute;
+    left: 0%;
+    top: 0%;
+    z-index: 1;
 }
 
 html {
@@ -7,7 +15,7 @@ html {
 }
 
 .navbar-logo img {
-    color: aqua;
+    color: white;
 }
 
 
@@ -35,12 +43,16 @@ html {
     margin: 0 50px;
     color: blanchedalmond;
     font-size: x-large;
+    z-index: 2;
 }
 
 .header-content {
-    font-size: 100px;
-    font-weight: 100px;
-    color: wheat;
+    font-size: 60px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 70px;
+    color: white;
+    ;
+    margin: -5px;
 }
 
 #about {
@@ -70,27 +82,32 @@ html {
     background: darkgrey;
 }
 
-
-}
 #contact {
-    back width: 1520px;
+    width: 1520px;
     height: 670px;
-    ground: darkcyan;
+    background: darkcyan;
 }
 
-}
 .header .container .textt {
     display: flex;
 }
+
 #about {
     width: 1520px;
     height: 670px;
     background: cyan;
 }
+
 #contact {
     width: 1520px;
     height: 670px;
     background: darkslategray;
 }
 
+.header-content .paragraf {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    font-style: italic;
+    color: #bbb;
+    ;
 }
