@@ -41,9 +41,15 @@ html {
 
 .nav ul li {
     margin: 0 50px;
+    list-style: none;
     color: blanchedalmond;
     font-size: x-large;
     z-index: 2;
+}
+
+.nav ul li a {
+    color: azure;
+    text-decoration: none;
 }
 
 .header-content {
@@ -53,17 +59,6 @@ html {
     color: white;
     ;
     margin: -5px;
-}
-
-#about {
-    width: 1200px;
-    height: 600px;
-}
-
-#about .container .row .text {
-    /* width: 700px;
-    height: 600px; */
-    background: rosybrown;
 }
 
 
@@ -76,38 +71,19 @@ html {
     display: flex;
 } */
 
-#portfolio {
-    width: 1520px;
-    height: 670px;
-    background: darkgrey;
-}
-
-#contact {
-    width: 1520px;
-    height: 670px;
-    background: darkcyan;
-}
-
 .header .container .textt {
     display: flex;
 }
 
-#about {
-    width: 1520px;
-    height: 670px;
-    background: cyan;
-}
 
-#contact {
-    width: 1520px;
-    height: 670px;
-    background: darkslategray;
 }
-
 .header-content .paragraf {
     font-family: 'Montserrat', sans-serif;
     font-size: 20px;
     font-style: italic;
     color: #bbb;
     ;
+}
+.container .header-section .navbar-logo {
+    z-index: 2;
 }
