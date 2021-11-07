@@ -1,20 +1,27 @@
+body {
+    background-color: black;
+    background-image: url(/ProjectFrontEnd/image/neeeoooon.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+    box-sizing: border-box;
+    color: #fff;
+    position: relative;
+    z-index: -2;
+    font-family: "Open Sans", sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    text-align: left;
+}
+
 .header {
     position: relative;
 }
 
-.header-bg {
-    position: absolute;
-    top: 0px;
-    left: 0px;
-    object-fit: cover;
-    z-index: 1;
-    width: 100%;
-}
-
-.header-bg img {
-    width: 100%;
-    object-fit: cover;
-    height: 620px;
+.navbar-logo {
+    color: white;
 }
 
 .nav ul {
@@ -43,7 +50,7 @@
     font-size: 60px;
     font-family: 'Montserrat', sans-serif;
     font-weight: 70px;
-    color: white;
+    color: azure;
     margin: -5px;
     display: flex;
     justify-content: center;
@@ -51,17 +58,13 @@
     height: 600px;
 }
 
-.about-title {
-    color: black;
-    font-size: 30px
-}
-
-.navbar-logo {
-    color: white;
-}
-
 .header .container .row {
     display: flex;
     align-items: center;
     justify-content: space-between;
+}
+
+#about {
+    width: 350px;
+    height: 350px;
 }
