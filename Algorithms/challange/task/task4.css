@@ -1,0 +1,31 @@
+body {
+    margin-top: 193px;
+    background-color: lightblue;
+}
+
+.div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.div button {
+    border-radius: 10px;
+    padding: 30px;
+    background-color: purple;
+    margin-right: 20px;
+}
+
+.div span {
+    border: 1px solid red;
+    background-color: green;
+    font-size: 15px;
+}
+
+.span {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 32px;
+    font-size: 72px;
+}
