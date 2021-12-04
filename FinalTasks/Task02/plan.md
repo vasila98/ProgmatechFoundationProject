@@ -1,15 +1,11 @@
 
-### Student Management hazirlamaq...
+### Telebelerin imtahandan kecib kecmediyini mueyyenlesdiren proqram..
 
 
-## ARasdirmali olacagim movzular:
-
-- Crud 
-- Json
-- Database
-
-
-
-- Bu movzular haqqinda basa dusduyumu research.md hissesinde yazacam. Crud mentiqini tutmusam sadece tetbiq etmek lazimdi. 
-- Ad, soyad, sifre daxil edilen bir funksiya yazacam, daha sonra ele bir sistem quracam ki, yazdigim ad soyad falan bir yere yigilsin ve silinmesin. istediyim vaxt onlari sile bilim ve ya yeni birini elave ede bilim. 
-- movzulari arasdirandan sonra kodlari yazmaga baslayacam.
+### Yazdigim kodla
+- Telebelerin imtahandan kecib-kecmediyini gormek olar
+- Telebeleri  elave ede ve ya siyahida olan telebelerden istediyimi sile bilerem
+- siyahida olan hansisa telebenin yeniden adlandira bilerem hemcinin ballarini da
+- butun emeliyyatlari edenden sonra siyahida qalan telebeleri gore bilerem
+- yazdigim koda gore umumi neticesi 51den az olan telebeler kesilmis sayilir, amma bizde imtahanda 17den az toplayanda umumi bal 51den cox olsa da kesilmis sayilirsan. ona gore sertleri ele vermisem ki umumi bal cox olsa da imtahanda 17den az bal toplayan telebe kesilmis sayilsin.
+- qisacasi besit CRUD emeliyyatlari yerine yetirmisem
