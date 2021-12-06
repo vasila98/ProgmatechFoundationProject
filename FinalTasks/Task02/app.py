@@ -1,6 +1,6 @@
 Telebeler=["vesi","gunay"]
-Giris_bali=[45,45]
-Imtahan_bali=[45,45]
+Giris_bali=[47,45]
+Imtahan_bali=[47,45]
 
 def TelebeniElaveEt():
     AdSoyad=input("Telebenin adini ve Soyadini daxil edin:")
